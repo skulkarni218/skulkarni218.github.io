@@ -1,5 +1,5 @@
 ---
-title: About
+title: Education
 
 # The About page
 # v2.0
