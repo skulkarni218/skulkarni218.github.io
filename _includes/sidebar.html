@@ -9,7 +9,7 @@
 <div id="nav-wrapper">
   <div id="profile-wrapper" class="d-flex flex-column">
     <div id="avatar" class="d-flex justify-content-center">
-      <a href="{{ site.baseurl }}/" alt="avatar">
+      <a alt="avatar">
         {% assign avatar_url = site.avatar %}
         {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
         {% if start == '/' %}
@@ -21,7 +21,7 @@
 
     <div class="profile-text mt-3">
       <div id="site-title">
-        <a href="{{ site.baseurl }}/">{{- site.title -}}</a>
+        <a>{{- site.title -}}</a>
       </div>
       <div id="site-subtitle" class="font-italic">{{- site.tagline -}}</div>
     </div>
