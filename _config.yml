@@ -31,6 +31,9 @@ github:
   
 linkedin:
   username: kulkarnisudhanshu            # change to your linkedin username
+  
+tableau:
+    username: sudhanshu3133
 
 social:
   name: Sudhanshu Kulkarni                  # it will shows as the copyright owner in Footer
@@ -40,6 +43,7 @@ social:
     #- https://twitter.com/username      # change to your twitter homepage
     - https://www.linkedin.com/in/kulkarnisudhanshu/
     - https://github.com/skulkarni218      # change to your github homepage
+    - https://public.tableau.com/profile/sudhanshu3133#!/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     
