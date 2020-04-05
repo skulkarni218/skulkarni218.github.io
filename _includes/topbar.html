@@ -20,7 +20,7 @@
         {% endif %}
       {% endfor %}
 
-      {% unless page.layout == "about" %}
+      {% unless page.layout == "home" %}
         <span>{{ page.title }}</span>
       {% endunless %}
 
@@ -31,7 +31,7 @@
     <div id="topbar-title">
     {% if page.location %}
       {{- page.location -}}
-    {% elsif page.layout == "about" %}
+    {% elsif page.layout == "home" %}
       {{- site.title -}}
     {% else %}
       {{- page.title -}}
