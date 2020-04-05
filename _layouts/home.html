@@ -6,7 +6,7 @@ layout: page
 # © 2017-2019 Cotes Chung
 # MIT Licensed
 ---
-
+<!--
 <div id="post-list">
   {% for post in paginator.posts %}
   <div class="post-preview">
@@ -20,14 +20,14 @@ layout: page
     </div>
 
     <div class="post-meta text-muted pt-1">
-      <!-- posted date -->
+      <!-- posted date --><!--
       <i class="far fa-clock fa-fw"></i>
       <span class="timeago" data-toggle="tooltip" data-placement="bottom"
         title="{{ post.date | date: site.data.date_format.tooltip }}">
       {{ post.date | date: site.data.date_format.post }}
       <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
       </span>
-      <!-- page views -->
+      <!-- page views --><!--
       {% if site.google_analytics.pv.enabled %}
       <i class="far fa-eye fa-fw"></i>
       <span id="pv_{{-post.title-}}" class="pageviews">
@@ -36,9 +36,11 @@ layout: page
       {% endif %}
     </div>
   </div> <!-- .post-review -->
-  {% endfor %}
+ <!-- {% endfor %} 
 </div> <!-- #post-list -->
-
+<!--
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
 {% endif %}
+
+-->
