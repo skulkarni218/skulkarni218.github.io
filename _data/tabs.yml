@@ -19,15 +19,15 @@
   path: tabs
   url: skills_certifications
 -
-  name: "Work Experience"
-  path: tabs
-  url: workexperience
-  icon: "fas fa-experience"
--
   name: "Education"
   icon: "fas fa-education"
   path: tabs
   url: education
+
+  name: "Work Experience"
+  path: tabs
+  url: workexperience
+  icon: "fas fa-experience"
   
   name: "Awards and Leadership"
   icon: "fas fa-awards"
