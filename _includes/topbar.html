@@ -8,6 +8,7 @@
 <div id="topbar-wrapper" class="row justify-content-center topbar-down">
   <div id="topbar" class="col-11 d-flex h-100 align-items-center justify-content-between">
 	<span id="breadcrumb">
+	<!--
       {% for item in page.breadcrumb %}
         {% if item.url %}
         <span>
@@ -18,7 +19,7 @@
         {% else %}
           <span>{{ item.label }}</span>
         {% endif %}
-      {% endfor %}
+      {% endfor %} -->
 
       {% unless page.layout == "home" %}
         <span>{{ page.title }}</span>
