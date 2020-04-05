@@ -9,22 +9,27 @@
   name: Home
   icon: "fas fa-home"
 -
-  name: Categories
+  name: About
   icon: "fas fa-stream"
   path: tabs
-  url: categories
+  url: about
 -
-  name: "Tags"
+  name: "Skills and Certifications"
   icon: "fas fa-tags"
   path: tabs
-  url: tags
+  url: skills_certifications
 -
-  name: "Archives"
+  name: "Work Experience"
   path: tabs
-  url: archives
+  url: workexperience
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Education"
   icon: "fas fa-info"
   path: tabs
-  url: about
+  url: education
+  
+  name: "Awards and Leadership"
+  icon: "fas fa-info"
+  path: tabs
+  url: awards_leadership

@@ -28,7 +28,6 @@
   </div>
 
   <ul class="nav flex-column">
-  <!--
   {% assign page_urls = page.url | split: "/" %}
 
   {% for item in site.data.tabs %}
@@ -50,42 +49,7 @@
         <span>{{ item.name | upcase }}</span>
       </a>
     </li> <!-- .nav-item -->
-  {% endfor %}-->
-  
-	<li class="nav-item d-flex justify-content-center">
-      <a href="/tabs/about.md/" class="nav-link d-flex justify-content-center align-items-center w-100">
-        <i class="fa-fw {{ item.icon }} ml-3 mr-3 unloaded"></i>
-        <span>ABOUT</span>
-      </a>
-    </li>
-	
-	<li class="nav-item d-flex justify-content-center">
-      <a href="skillsandcertifications" class="nav-link d-flex justify-content-center align-items-center w-100">
-        <i class="fa-fw {{ item.icon }} ml-3 mr-3 unloaded"></i>
-        <span>SKILLS AND CERTIFICATIONS</span>
-      </a>
-    </li>
-	
-	<li class="nav-item d-flex justify-content-center">
-      <a href="workexperience" class="nav-link d-flex justify-content-center align-items-center w-100">
-        <i class="fa-fw {{ item.icon }} ml-3 mr-3 unloaded"></i>
-        <span>WORK EXPERIENCE</span>
-      </a>
-    </li>
-	
-	<li class="nav-item d-flex justify-content-center">
-      <a href="education" class="nav-link d-flex justify-content-center align-items-center w-100">
-        <i class="fa-fw {{ item.icon }} ml-3 mr-3 unloaded"></i>
-        <span>EDUCATION</span>
-      </a>
-    </li>
-	
-	<li class="nav-item d-flex justify-content-center">
-      <a href="awardsandleadership" class="nav-link d-flex justify-content-center align-items-center w-100">
-        <i class="fa-fw {{ item.icon }} ml-3 mr-3 unloaded"></i>
-        <span>AWARDS AND LEADERSHIP</span>
-      </a>
-    </li>
+  {% endfor %}
 
   </ul> <!-- ul.nav.flex-column -->
 
