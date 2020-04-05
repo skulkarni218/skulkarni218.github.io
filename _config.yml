@@ -26,8 +26,8 @@ avatar: /assets/img/sample/_XPR2994_1.jpg   # support internet resources
 github:
   username: skulkarni218             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+#twitter:
+#  username: twitter_username            # change to your twitter username
   
 linkedin:
   username: kulkarnisudhanshu            # change to your linkedin username
