@@ -6,7 +6,7 @@ layout: default
 # © 2017-2019 Cotes Chung
 # MIT Licensed
 ---
-<!--
+
 <div class="row">
 
   <div id="post-wrapper" class="col-12 col-lg-11 col-xl-8">
@@ -17,7 +17,6 @@ layout: default
 
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published Date and Categoreis -->
-		<!--
         <div>
           <span class="timeago" data-toggle="tooltip" data-placement="bottom"
            title="{{ page.date | date: site.data.date_format.tooltip }}">
@@ -32,7 +31,6 @@ layout: default
         </div>
 
         <!-- page views -->
-		<!--
         {% if site.google_analytics.pv.enabled %}
         <div>
           <span id="pv" class="pageviews"><i class="fas fa-spinner fa-spin fa-fw"></i></span> views
@@ -40,13 +38,12 @@ layout: default
         {% endif %}
 
       </div> <!-- .post-meta -->
-<!--
+
       <div class="post-content">
         {% if page.image %}
         <img src="{{ page.image }}">
         {% endif %}
         <!-- Add lozad class into image tags. see: <https://github.com/ApoorvSaxena/lozad.js#usage> -->
-		<!--
         {% if content contains '<img src=' %}
           {% capture loading %}
            {{ "/assets/img/commons/loading.png" | relative_url }}
@@ -61,7 +58,6 @@ layout: default
       <div class="post-tail-wrapper text-muted">
 
         <!-- lastmod -->
-		<!--
         {% if page.seo.date_modified > page.date %}
         <div>
           Updated
@@ -75,7 +71,6 @@ layout: default
         {% endif %}
 
         <!-- Tags -->
-		<!--
         {% if page.tags.size > 0 %}
         <div class="pt-3">
           {% for tag in page.tags %}
@@ -107,18 +102,17 @@ layout: default
           {% include post-sharing.html %}
 
         </div><!-- .post-tail-bottom -->
-		<!--
 
       </div><!-- div.post-tail -->
-<!--
-    </div> <!-- .post --><!--
+
+    </div> <!-- .post -->
 
   </div> <!-- #post-wrapper -->
-<!--
+
   {% include panel.html %}
 
 </div> <!-- .row -->
-<!--
+
 <div class="row">
   <div id="post-extend-wrapper" class="col-12 col-lg-11 col-xl-8">
 
@@ -133,9 +127,9 @@ layout: default
       {% include related-posts.html %}
 
     </div> <!-- .pl-1 pr-1 -->
-<!--
+
   </div> <!-- #post-extend-wrapper -->
-<!--
+
 </div> <!-- .row -->
-<!--
-{% include lozad.html %}-->
+
+{% include lozad.html %}
