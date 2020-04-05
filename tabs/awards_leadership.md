@@ -1,5 +1,5 @@
 ---
-title: About
+title: Awards and Leadership
 
 # The About page
 # v2.0

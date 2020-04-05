@@ -1,5 +1,5 @@
 ---
-title: About
+title: Skills and Certifications
 
 # The About page
 # v2.0
