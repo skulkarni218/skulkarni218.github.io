@@ -10,26 +10,26 @@
   icon: "fas fa-home"
 -
   name: About
-  icon: "fas fa-stream"
+  icon: "fas fa-about"
   path: tabs
   url: about
 -
   name: "Skills and Certifications"
-  icon: "fas fa-tags"
+  icon: "fas fa-skills"
   path: tabs
   url: skills_certifications
 -
   name: "Work Experience"
   path: tabs
   url: workexperience
-  icon: "fas fa-archive"
+  icon: "fas fa-experience"
 -
   name: "Education"
-  icon: "fas fa-info"
+  icon: "fas fa-education"
   path: tabs
   url: education
   
   name: "Awards and Leadership"
-  icon: "fas fa-info"
+  icon: "fas fa-awards"
   path: tabs
   url: awards_leadership
