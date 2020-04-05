@@ -5,27 +5,26 @@
 #  MIT Licensed
 
 
+-
+  name: Home
+  icon: "fas fa-home"
+-
+  name: Categories
+  icon: "fas fa-stream"
+  path: tabs
+  url: categories
+-
+  name: "Tags"
+  icon: "fas fa-tags"
+  path: tabs
+  url: tags
+-
+  name: "Archives"
+  path: tabs
+  url: archives
+  icon: "fas fa-archive"
+-
   name: "About"
   icon: "fas fa-info"
   path: tabs
   url: about
--
-  name: Awards and Leadership
-  icon: "fas fa-home"
-  path: tabs
-  url: awards_leadership
--
-  name: Skills and Certifications
-  icon: "fas fa-stream"
-  path: tabs
-  url: skills_certifications
--
-  name: "Work Experience"
-  icon: "fas fa-tags"
-  path: tabs
-  url: workexperience
--
-  name: "Education"
-  path: tabs
-  url: education
-  icon: "fas fa-archive"
