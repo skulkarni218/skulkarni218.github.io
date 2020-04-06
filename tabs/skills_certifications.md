@@ -75,7 +75,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
 			<div class="service-detail">
-				<h3>DATA ANALYSIS</h3>
+				<h3 style="text-align:center;">DATA ANALYSIS</h3>
 				<h6>Translating Numbers into insights to help better decisions to increase business performance.</h6>
 			</div>
 		</div>
@@ -85,7 +85,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-database"></i></div>
 			<div class="service-detail">
-				<h3>DATA MODELING</h3>
+				<h3 style="text-align:center;">DATA MODELING</h3>
 				<h6>Connecting various data sources to create logical model for an information system.</h6>
 			</div>
 		</div>
@@ -95,7 +95,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-cubes"></i></div>
 			<div class="service-detail">
-				<h3>DATA ENGINEERING</h3>
+				<h3 style="text-align:center;">DATA ENGINEERING</h3>
 				<h6>Managing Data workflows, pipelines, ETL processes to create a dataset for data analysis.</h6>
 			</div>
 		</div>
@@ -105,7 +105,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-bar-chart"></i></div>
 			<div class="service-detail">
-				<h3>DATA REPORTING AND VISUALIZATION</h3>
+				<h3 style="text-align:center;">DATA REPORTING AND VISUALIZATION</h3>
 				<h6>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h6>
 			</div>
 		</div>
@@ -115,7 +115,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-cogs"></i></div>
 			<div class="service-detail">
-				<h3>MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE</h3>
+				<h3 style="text-align:center;">MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE</h3>
 				<h6>Automating the process of the data analytics to identify patterns and reduce human error.</h6>
 			</div>
 		</div>
@@ -125,7 +125,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-users"></i></div>
 			<div class="service-detail">
-				<h3>PROJECT MANAGEMENT AND LEAN SIX SIGMA</h3>
+				<h3 style="text-align:center;">PROJECT MANAGEMENT AND LEAN SIX SIGMA</h3>
 				<h6>Helping the processes become lean and more efficient with a good project management.</h6>
 			</div>
 		</div>
