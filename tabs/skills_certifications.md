@@ -73,7 +73,7 @@ title: Skills and Certifications
 
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
+			<div class="service-icon"><i class="fa fa-line-chart" aria-hidden="true"></i></div>
 			<div class="service-detail">
 				<h1>DATA ANALYSIS</h1>
 				<h4>Translating Numbers into insights to help better decisions to increase business performance.</h4>
@@ -103,7 +103,7 @@ title: Skills and Certifications
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-bar-chart"></i></div>
+			<div class="service-icon"><i class="fa fa-bar-chart" aria-hidden="true"></i></div>
 			<div class="service-detail">
 				<h1>DATA REPORTING AND VISUALIZATION</h1>
 				<h4>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h4>
