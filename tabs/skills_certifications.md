@@ -48,7 +48,7 @@ title: Skills and Certifications
 		#services .pack-service:hover .service-icon i {
 			border: 3px solid #ccc;
 			color: #fff;
-			transform: scale(1) rotate(360deg);
+			-transform: scale(1) rotate(360deg);
 			-webkit-transform: scale(1) rotate(360deg);
 			-moz-transform: scale(1) rotate(360deg);
 			-o-transform: scale(1) rotate(360deg);
@@ -73,10 +73,10 @@ title: Skills and Certifications
 
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-line-chart" aria-hidden="true"></i></div>
+			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
 			<div class="service-detail">
-				<h2>DATA ANALYSIS</h2>
-				<h5>Translating Numbers into insights to help better decisions to increase business performance.</h5>
+				<h3>DATA ANALYSIS</h3>
+				<h6>Translating Numbers into insights to help better decisions to increase business performance.</h6>
 			</div>
 		</div>
 	</div>
@@ -85,8 +85,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-database"></i></div>
 			<div class="service-detail">
-				<h2>DATA MODELING</h2>
-				<h5>Connecting various data sources to create logical model for an information system.</h5>
+				<h3>DATA MODELING</h3>
+				<h6>Connecting various data sources to create logical model for an information system.</h6>
 			</div>
 		</div>
 	</div>
@@ -95,18 +95,18 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-cubes"></i></div>
 			<div class="service-detail">
-				<h2>DATA ENGINEERING</h2>
-				<h5>Managing Data workflows, pipelines, ETL processes to create a dataset for data analysis.</h5>
+				<h3>DATA ENGINEERING</h3>
+				<h6>Managing Data workflows, pipelines, ETL processes to create a dataset for data analysis.</h6>
 			</div>
 		</div>
 	</div>
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-bar-chart-o" aria-hidden="true"></i></div>
+			<div class="service-icon"><i class="fa fa-bar-chart"></i></div>
 			<div class="service-detail">
-				<h2>DATA REPORTING AND VISUALIZATION</h2>
-				<h5>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h5>
+				<h3>DATA REPORTING AND VISUALIZATION</h3>
+				<h6>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h6>
 			</div>
 		</div>
 	</div>
@@ -115,8 +115,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-cogs"></i></div>
 			<div class="service-detail">
-				<h2>MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE</h2>
-				<h5>Automating the process of the data analytics to identify patterns and reduce human error.</h5>
+				<h3>MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE</h3>
+				<h6>Automating the process of the data analytics to identify patterns and reduce human error.</h6>
 			</div>
 		</div>
 	</div>
@@ -125,8 +125,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-users"></i></div>
 			<div class="service-detail">
-				<h2>PROJECT MANAGEMENT AND LEAN SIX SIGMA</h2>
-				<h5>Helping the processes become lean and more efficient with a good project management.</h5>
+				<h3>PROJECT MANAGEMENT AND LEAN SIX SIGMA</h3>
+				<h6>Helping the processes become lean and more efficient with a good project management.</h6>
 			</div>
 		</div>
 	</div>
