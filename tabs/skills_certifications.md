@@ -16,7 +16,6 @@ title: Skills and Certifications
     min-height: 1px;
     float: left;
     width: 32%;
-    margin: 1% 1% 0 0;
     padding: 2%;
     cursor: pointer;
     transition: all 0.5s ease 0s;
