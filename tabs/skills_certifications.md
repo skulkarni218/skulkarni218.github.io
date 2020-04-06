@@ -16,7 +16,7 @@ title: Skills and Certifications
 
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-tag"></i></div>
+			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
 			<div class="service-detail">
 				<h1>DATA ANALYSIS</h1>
 				<h4>Translating Numbers into insights to help better decisions to increase business performance.</h4>
@@ -26,7 +26,7 @@ title: Skills and Certifications
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-tag"></i></div>
+			<div class="service-icon"><i class="fa fa-database"></i></div>
 			<div class="service-detail">
 				<h1>DATA MODELING</h1>
 				<h4>Connecting various data sources to create logical model for an information system.</h4>
@@ -36,7 +36,7 @@ title: Skills and Certifications
 
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-cogs"></i></div>
+			<div class="service-icon"><i class="fa fa-cubes"></i></div>
 			<div class="service-detail">
 				<h1>DATA ENGINEERING</h1>
 				<h4>Managing Data workflows, pipelines, ETL processes to create a dataset for data analysis.</h4>
@@ -46,7 +46,7 @@ title: Skills and Certifications
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-cogs"></i></div>
+			<div class="service-icon"><i class="fa fa-bar-chart"></i></div>
 			<div class="service-detail">
 				<h1>DATA REPORTING AND VISUALIZATION</h1>
 				<h4>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h4>
@@ -66,20 +66,10 @@ title: Skills and Certifications
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-arrows-alt"></i></div>
+			<div class="service-icon"><i class="fa fa-group"></i></div>
 			<div class="service-detail">
 				<h1>PROJECT MANAGEMENT AND LEAN SIX SIGMA</h1>
 				<h4>Helping the processes become lean and more efficient with a good project management.</h4>
-			</div>
-		</div>
-	</div>
-	
-	<div class="col-md-4 pack-service">
-		<div class="service">
-			<div class="service-icon"><i class="fa fa-arrows-alt"></i></div>
-			<div class="service-detail">
-				<h1>Project Management</h1>
-				<h4>Leading teams and managing tasks to ensure timely completion of projects using agile project management principles</h4>
 			</div>
 		</div>
 	</div>
