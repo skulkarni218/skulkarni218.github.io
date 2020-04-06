@@ -9,7 +9,65 @@ title: Skills and Certifications
 ---
 
 ## Here are some of my strong skills
+<head>
+	<style>
+		#services .pack-service {
+    position: relative;
+    min-height: 1px;
+    float: left;
+    width: 32%;
+    margin: 1% 1% 0 0;
+    padding: 2%;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+}
+#services .pack-service:hover {
+    background: #fff;
+    box-shadow: 0px 0px 0px 2px rgba(0, 0, 0, 0.05);
+}
+#services .alpha {margin: 1% 0 0 0;}
+#services .service-icon {
+    width: 92px;
+    margin: 0 auto;
+}
+#services .service-icon i {
+    display: block;
+    width: 86px;
+    height: 86px;
+    border-radius: 50%;
+    font-size: 40px;
+    line-height: 80px;
+    text-align: center;
+    transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+}
+#services .pack-service:hover .service-icon i {
+    border: 3px solid #ccc;
+    color: #fff;
+    transform: scale(1) rotate(360deg);
+    -webkit-transform: scale(1) rotate(360deg);
+    -moz-transform: scale(1) rotate(360deg);
+    -o-transform: scale(1) rotate(360deg);
+}
+#services .service-detail h6 {
+    text-transform: uppercase;
+    font-weight: 400;
+    margin: 10px 0 3px 0;
+    text-align: center;
+    font-size: 15px !important;
+}
+#services .service-detail p {
+    text-align: center;
+    border-left: 0;
+}
 
+	</style>
+</head>
 <div class="row" id="services">
 	<div class="col-md-12">
 	</div>
