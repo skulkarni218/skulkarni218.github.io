@@ -18,8 +18,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-tag"></i></div>
 			<div class="service-detail">
-				<h6>Data Engineering </h6>
-				<p>Managing data workflows, creating pipelines and ETL processes to create the dataset for data analysis.</p>
+				<h1>DATA ANALYSIS</h1>
+				<h4>Translating Numbers into insights to help better decisions to increase business performance.</h4>
 			</div>
 		</div>
 	</div>
@@ -28,8 +28,18 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-tag"></i></div>
 			<div class="service-detail">
-				<h6>Data Analysis</h6>
-				<p>Translating numbers into insights to help better decisions and to increase performance.</p>
+				<h1>DATA MODELING</h1>
+				<h4>Connecting various data sources to create logical model for an information system.</h4>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-md-4 pack-service">
+		<div class="service">
+			<div class="service-icon"><i class="fa fa-cogs"></i></div>
+			<div class="service-detail">
+				<h1>DATA ENGINEERING</h1>
+				<h4>Managing Data workflows, pipelines, ETL processes to create a dataset for data analysis.</h4>
 			</div>
 		</div>
 	</div>
@@ -38,8 +48,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-cogs"></i></div>
 			<div class="service-detail">
-				<h6>Data Visualization</h6>
-				<p>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</p>
+				<h1>DATA REPORTING AND VISUALIZATION</h1>
+				<h4>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h4>
 			</div>
 		</div>
 	</div>
@@ -48,8 +58,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-cogs"></i></div>
 			<div class="service-detail">
-				<h6>Cloud Management</h6>
-				<p>Managing and providing support for cloud computing products and services. </p>
+				<h1>MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE</h1>
+				<h4>Automating the process of the data analytics to identify patterns and reduce human error.</h4>
 			</div>
 		</div>
 	</div>
@@ -58,8 +68,8 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-arrows-alt"></i></div>
 			<div class="service-detail">
-				<h6>Process Improvement</h6>
-				<p>Helping businesses to more efficient by improving processes with lean six sigma methodologies</p>
+				<h1>PROJECT MANAGEMENT AND LEAN SIX SIGMA</h1>
+				<h4>Helping the processes become lean and more efficient with a good project management.</h4>
 			</div>
 		</div>
 	</div>
@@ -68,30 +78,12 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-arrows-alt"></i></div>
 			<div class="service-detail">
-				<h6>Project Management</h6>
-				<p>Leading teams and managing tasks to ensure timely completion of projects using agile project management principles</p>
+				<h1>Project Management</h1>
+				<h4>Leading teams and managing tasks to ensure timely completion of projects using agile project management principles</h4>
 			</div>
 		</div>
 	</div>
 </div>	
-
-# DATA ANALYSIS
-#### Translating Numbers into insights to help better decisions to increase business performance.
-
-# DATA MODELING
-#### Connecting various data sources to create logical model for an information system.
-
-# DATA ENGINEERING
-#### Managing Data workflows, pipelines, ETL processes to create a dataset for data analysis.
-
-# DATA REPORTING AND VISUALIZATION
-#### Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.
-
-# MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
-#### Automating the process of the data analytics to identify patterns and reduce human error.
-
-# PROJECT MANAGEMENT AND LEAN SIX SIGMA  
-#### Helping the processes become lean and more efficient with a good project management.
 
 <h2 data-toc-skip>MY SKILLSET</h2>
 #### **Programming Languages**
