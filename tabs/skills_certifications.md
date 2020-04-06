@@ -10,7 +10,6 @@ title: Skills and Certifications
 
 ## Here are some of my strong skills
 
-```html
 <div class="row" id="services">
 	<div class="col-md-12">
 		<div class="title_content">
@@ -80,7 +79,6 @@ title: Skills and Certifications
 		</div>
 	</div>
 </div>	
-```
 
 # DATA ANALYSIS
 #### Translating Numbers into insights to help better decisions to increase business performance.
