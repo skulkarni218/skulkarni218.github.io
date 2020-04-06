@@ -66,7 +66,7 @@ title: Skills and Certifications
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-group"></i></div>
+			<div class="service-icon"><i class="fa fa-users"></i></div>
 			<div class="service-detail">
 				<h1>PROJECT MANAGEMENT AND LEAN SIX SIGMA</h1>
 				<h4>Helping the processes become lean and more efficient with a good project management.</h4>
