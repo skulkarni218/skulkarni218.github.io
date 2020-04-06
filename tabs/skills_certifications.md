@@ -11,12 +11,7 @@ title: Skills and Certifications
 ## Here are some of my strong skills
 
 <div class="row" id="services">
-	<div class="col-md-12">
-		<div class="title_content">
-			<div class="text_content">Specializations</div>
-			<div class="clear"></div>
-		</div>
-
+	<div class="col-md-12"></div>
 
 		<div class="col-md-4 pack-service">
 			<div class="service">
