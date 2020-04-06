@@ -72,8 +72,7 @@ title: Skills and Certifications
 				</div>
 			</div>
 		</div>
-	</div>
-</div>	
+	</div>	
 
 # DATA ANALYSIS
 #### Translating Numbers into insights to help better decisions to increase business performance.
