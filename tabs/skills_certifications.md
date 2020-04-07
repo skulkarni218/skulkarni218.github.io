@@ -76,6 +76,16 @@ title: Skills and Certifications
 		color:rgba(255,255,255,0.5);
 		letter-spacing: 1px;
 		}
+		#services .pack-service:hover h3
+		{
+		color:#fff;
+		border-color:#fff;
+		}
+		#services .pack-service:hover h6
+		{
+		color:#fff;
+		border-color:#fff;
+		}
 
 	</style>
 </head>
