@@ -154,6 +154,18 @@ title: Skills and Certifications
 	</div>
 </div>	
 <br><br>
+
+<div>
+<h2>My Skillset</h2>
+</div>
+<table>
+	<tr>
+		<th scope="row"><strong>Programming Languages</strong></th>
+		<td>R, Python, SQL, VBA, C#, JavaScript</td>
+	</tr>
+</table>
+
+
 <h2 data-toc-skip>MY SKILLSET</h2>
 #### **Programming Languages**
 #### R, Python, SQL, VBA, C#, JavaScript
