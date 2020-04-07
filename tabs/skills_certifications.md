@@ -22,7 +22,7 @@ title: Skills and Certifications
 			-moz-transition: all 0.5s ease 0s;
 			-webkit-transition: all 0.5s ease 0s;
 			-o-transition: all 0.5s ease 0s;
-			border-radius: 15px 50px;
+			border-radius: 15px;
 			border-style:outset;
 			background-color:#D2F6FE
 		}
