@@ -24,7 +24,8 @@ title: Skills and Certifications
 			-o-transition: all 0.5s ease 0s;
 			border-radius: 15px;
 			border-style:outset;
-			background-color:#D2F6FE
+			background-image: radial-gradient( circle, rgba(42, 30, 107, 1) 0%, rgba(35, 37, 46, 1) 100%);
+			color:white;
 		}
 		#services .pack-service:hover {
 			background: #fff;
@@ -78,7 +79,7 @@ title: Skills and Certifications
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
 			<div class="service-detail">
-				<h3 style="text-align:center;">DATA ANALYSIS</h3>
+				<h3 style="text-align:center; font-weight: 600; color:rgba(255,255,255,0.5);letter-spacing: 1px;">DATA ANALYSIS</h3>
 				<h6>Translating Numbers into insights to help better decisions to increase business performance.</h6>
 			</div>
 		</div>
