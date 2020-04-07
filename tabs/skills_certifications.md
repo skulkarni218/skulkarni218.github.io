@@ -82,7 +82,7 @@ title: Skills and Certifications
 
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
+			<div class="service-icon"><i class="fa fa-chart-bar"></i></div>
 			<div class="service-detail">
 				<h3>DATA ANALYSIS</h3>
 				<h6>Translating Numbers into insights to help better decisions to increase business performance.</h6>
@@ -112,7 +112,7 @@ title: Skills and Certifications
 	
 	<div class="col-md-4 pack-service">
 		<div class="service">
-			<div class="service-icon"><i class="fa fa-bar-chart"></i></div>
+			<div class="service-icon"><i class="fa fa-chart-line"></i></div>
 			<div class="service-detail">
 				<h3 style="text-align:center;">DATA REPORTING AND VISUALIZATION</h3>
 				<h6>Creating executive dashbaords to visualize the results of the analysis to help better informed decisions.</h6>
@@ -140,7 +140,7 @@ title: Skills and Certifications
 		</div>
 	</div>
 </div>	
-
+<br><br>
 <h2 data-toc-skip>MY SKILLSET</h2>
 #### **Programming Languages**
 #### R, Python, SQL, VBA, C#, JavaScript
