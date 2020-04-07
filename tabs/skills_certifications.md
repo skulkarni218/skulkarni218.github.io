@@ -29,7 +29,8 @@ title: Skills and Certifications
 		}
 		#services .pack-service:hover {
 			tag-hover: rgb(222, 226, 230);
-			color:rgba(255,255,255,0.75);
+			color:#fff;
+			border-color:#fff;
 		}
 		#services .alpha {margin: 1% 0 0 0;}
 		#services .service-icon {
