@@ -163,19 +163,24 @@ title: Skills and Certifications
 		<th scope="row"><strong>Programming Languages</strong></th>
 		<td>R, Python, SQL, VBA, C#, JavaScript</td>
 	</tr>
+	<tr>
+		<th scope="row"><strong>Data Engineering Tools</strong></th>
+		<td>MS SQL Server, Oracle, MySQL, PostgreSQL, Amazon Redshift, MS Access, Visual Studio</td>
+	</tr>
+	<tr>
+		<th scope="row"><strong>Machine Learning Models</strong></th>
+		<td>Linear Regression, Logistic Regression, KNN, Naïve Bayes, Support Vector Machine, Random Forest, K-Means</td>
+	</tr>
+	<tr>
+		<th scope="row"><strong>Visualization Tools</strong></th>
+		<td>Tableau, Power BI, QlikView, Google Data Studio, SAS</td>
+	</tr>
+	<tr>
+		<th scope="row"><strong>BI and Statistical Tools</strong></th>
+		<td>MS Excel, Minitab, NumPy, Pandas, Matplotlib, Caret, SSIS, SSAS, SSRS</td>
+	</tr>
+	<tr>
+		<th scope="row"><strong>Project Management and Lean Six Sigma</strong></th>
+		<td>MS Project, Trello, Jira, Minitab, MS Visio, DMAIC (Define, Measure, Analysis, Improve, Control) Processes</td>
+	</tr>
 </table>
-
-
-<h2 data-toc-skip>MY SKILLSET</h2>
-#### **Programming Languages**
-#### R, Python, SQL, VBA, C#, JavaScript
-#### **Data Engineering Tools**
-#### MS SQL Server, Oracle, MySQL, PostgreSQL, Amazon Redshift, MS Access, Visual Studio
-#### **Machine Learning Models**
-#### Linear Regression, Logistic Regression, KNN, Naïve Bayes, Support Vector Machine, Random Forest, K-Means
-#### **Visualization Tools**
-#### Tableau, Power BI, QlikView, Google Data Studio, SAS
-#### **BI and Statistical Tools:**
-#### MS Excel, Minitab, NumPy, Pandas, Matplotlib, Caret, SSIS, SSAS, SSRS
-#### **Project Management and Lean Six Sigma:**
-#### MS Project, Trello, Jira, Minitab, MS Visio, DMAIC (Define, Measure, Analysis, Improve, Control) Processes
