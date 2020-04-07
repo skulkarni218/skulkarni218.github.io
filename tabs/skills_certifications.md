@@ -218,7 +218,7 @@ title: Skills and Certifications
 	</div>
 	<div class="col-md-6 pack-service">
 		<div class="service">
-		<div class="service-icon"><i class="fa fa-google"></i></div>
+		<div class="service-icon"><i class="fa fa-tasks"></i></div>
 			<div class="service-detail">
 				<h3>Google Analytics Individual Qualification</h3>
 			</div>
