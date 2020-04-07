@@ -19,6 +19,11 @@
   path: tabs
   url: workexperience
   icon: "fas fa-experience"
+-
+  name: "Academic Projects"
+  path: tabs
+  url: academicprojects
+  icon: "fa fa-graduation-cap"
 - 
   name: "Education"
   icon: "fas fa-education"
