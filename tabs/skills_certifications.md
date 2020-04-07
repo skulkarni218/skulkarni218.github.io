@@ -194,6 +194,7 @@ title: Skills and Certifications
 
 	<div class="col-md-6 pack-service">
 		<div class="service">
+			<div class="service-icon"><i class="fa fa-users"></i></div>
 			<div class="service-detail">
 				<h3>Certified Associate in Project Management (CAPM)®</h3>
 			</div>
@@ -201,6 +202,7 @@ title: Skills and Certifications
 	</div>
 	<div class="col-md-6 pack-service">
 		<div class="service">
+		<div class="service-icon"><i class="fa fa-chart-area"></i></div>
 			<div class="service-detail">
 				<h3>Certificate of Advanced Study in Data Science from Syracuse University</h3>
 			</div>
@@ -208,6 +210,7 @@ title: Skills and Certifications
 	</div>
 	<div class="col-md-6 pack-service">
 		<div class="service">
+		<div class="service-icon"><i class="fa fa-table"></i></div>
 			<div class="service-detail">
 				<h3>Microsoft Office Specialist for Office Excel® 2016</h3>
 			</div>
@@ -215,25 +218,10 @@ title: Skills and Certifications
 	</div>
 	<div class="col-md-6 pack-service">
 		<div class="service">
+		<div class="service-icon"><i class="fa fa-google"></i></div>
 			<div class="service-detail">
 				<h3>Google Analytics Individual Qualification</h3>
 			</div>
 		</div>
 	</div>
-</div>
-
-<div>
-<h2 style="font-size: 1.8rem;font-weight: 400;">My Certificates</h2>
-</div>
-<div>
-<h6>Certified Associate in Project Management (CAPM)®</h6>
-</div>
-<div>
-<h6>Certificate of Advanced Study in Data Science from Syracuse University</h6>
-</div>
-<div>
-<h6>Microsoft Office Specialist for Office Excel® 2016</h6>
-</div>
-<div>
-<h6>Google Analytics Individual Qualification</h6>
 </div>
