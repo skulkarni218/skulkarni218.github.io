@@ -29,11 +29,11 @@ title: Work Experience
 			top: 1px;
 		}
 
-		#resume .col-md-6 span.duration {
+		#resume .col-md-10 span.duration {
 			float: right;
 		}
 
-		#resume .col-md-6 ul li {
+		#resume .col-md-10 ul li {
 			list-style: none;
 			margin-top: 20px;
 		}
@@ -44,6 +44,7 @@ title: Work Experience
 
 		#resume .attributes li.first{
 			margin-top: 0 !important;
+			list-style-type: none;
 		}
 
 		#resume .attributes .duration i{
