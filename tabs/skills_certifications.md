@@ -187,6 +187,41 @@ title: Skills and Certifications
 
 <br><br>
 
+<div class="row" id="services">
+	<div class="col-md-12">
+		<h2 style="font-size: 1.8rem;font-weight: 400;">My Certificates</h2>
+	</div>
+
+	<div class="col-md-6 pack-service">
+		<div class="service">
+			<div class="service-detail">
+				<h3>Certified Associate in Project Management (CAPM)®</h3>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6 pack-service">
+		<div class="service">
+			<div class="service-detail">
+				<h3>Certificate of Advanced Study in Data Science from Syracuse University</h3>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6 pack-service">
+		<div class="service">
+			<div class="service-detail">
+				<h3>Microsoft Office Specialist for Office Excel® 2016</h3>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6 pack-service">
+		<div class="service">
+			<div class="service-detail">
+				<h3>Google Analytics Individual Qualification</h3>
+			</div>
+		</div>
+	</div>
+</div>
+
 <div>
 <h2 style="font-size: 1.8rem;font-weight: 400;">My Certificates</h2>
 </div>
