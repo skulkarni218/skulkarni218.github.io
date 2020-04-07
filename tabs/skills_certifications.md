@@ -155,8 +155,8 @@ title: Skills and Certifications
 </div>	
 <br><br>
 
-<div style="font-size: 1.8rem;font-weight: 400;">
-<h2>My Skillset</h2>
+<div>
+<h2 style="font-size: 1.8rem;font-weight: 400;">My Skillset</h2>
 </div>
 <table style="font-size: 1.1rem;">
 	<tr>
