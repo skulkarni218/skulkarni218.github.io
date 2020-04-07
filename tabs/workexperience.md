@@ -80,11 +80,6 @@ title: Work Experience
 
 <div class="col-md-10 resume-left">    
 
-	<div class="title_content" style="margin-bottom:5px">
-		<div class="text_content">Experience</div>
-		<div class="clear"></div>
-	</div>
-
 	<ul class="attributes">
 		<li class="first">
 			<h5>Data Analytics Intern <span class="duration"><i class="fa fa-calendar color"></i> Sep 19 - May 20 </span></h5>
