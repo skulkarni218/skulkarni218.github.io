@@ -86,7 +86,7 @@ title: Education
 				<h5><b>Master of Science in Information Management</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2018 - May 2020 </span></h5>
 				<h6><span class="fa fa-graduation-cap"></span><b> Syracuse University, GPA 3.95</b></h6>
 				<p><i>Relevant Courses:</i> Data Analytics, Data Science, Data Warehouse, Data Administration and Database Management, Information Visualization, Business Analytics, Enterprise IT Consultation, Enterprise Risk Management, Project Management, Lean Six Sigma <br><br>
-				<b>Leadership:<b> <br>
+				<b>Leadership:</b> <br>
 				Along with the curriculum, I am also working as a Business Data Analyst at iConsult Collaborative at Syracuse University where I am looking to improve the retention of existing members and increase new members for the client across various platforms such as social media, website, emails and meetings/events.
 				Apart from this, I help the career services at iSchool to review resumes for my peers and juniors. I also mentor juniors on academic and individual projects and suggest them with the right coursework according to their interests.
 				Also, I am a supervisor at Food Services - Shaw Dining Center where I lead a team of 12-15 students to help the dining center to function smoothly in the fast-paced environment.</p>
