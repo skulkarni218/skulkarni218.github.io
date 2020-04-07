@@ -51,7 +51,8 @@ title: Education
 		#resume .attributes .duration i{
 			margin-right: 5px;
 		}
-
+		
+		#resume h4,
 		#resume h5,
 		#resume h6 {
 			font-weight:400 !important;
@@ -83,19 +84,19 @@ title: Education
 	<div class="col-md-12 resume-left">    
 		<ul class="attributes">
 			<li class="first">
-				<h5><b>Master of Science in Information Management</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2018 - May 2020 </span></h5>
+				<h4><b>Master of Science in Information Management</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2018 - May 2020 </span></h4>
 				<h6><span class="fa fa-graduation-cap"></span><b> Syracuse University, GPA 3.95</b></h6>
 				<p><i>Relevant Courses:</i> Data Analytics, Data Science, Data Warehouse, Data Administration and Database Management, Information Visualization, Business Analytics, Enterprise IT Consultation, Enterprise Risk Management, Project Management, Lean Six Sigma <br><br>
 				<b>Leadership:</b> <br>
 				Along with the curriculum, I am also working as a Business Data Analyst at iConsult Collaborative at Syracuse University where I am looking to improve the retention of existing members and increase new members for the client across various platforms such as social media, website, emails and meetings/events.
-				Apart from this, I help the career services at iSchool to review resumes for my peers and juniors. I also mentor juniors on academic and individual projects and suggest them with the right coursework according to their interests.
-				Also, I am a supervisor at Food Services - Shaw Dining Center where I lead a team of 12-15 students to help the dining center to function smoothly in the fast-paced environment.</p>
+				<br>Apart from this, I help the career services at iSchool to review resumes for my peers and juniors. I also mentor juniors on academic and individual projects and suggest them with the right coursework according to their interests.
+				<br>Also, I am a supervisor at Food Services - Shaw Dining Center where I lead a team of 12-15 students to help the dining center to function smoothly in the fast-paced environment.</p>
 			</li>
 			
 			<br><br>
 			
 			<li>
-				<h5><b>Bachelor of Engineering in Elecronics and Telecommunication</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2011 - May 2015 </span></h5>
+				<h4><b>Bachelor of Engineering in Elecronics and Telecommunication</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2011 - May 2015 </span></h4>
 				<h6><span class="fa fa-graduation-cap"></span><b> University of Mumbai</b></h6>
 				<p>During my engineering, I implemented two projects:<br>
 				<b>Copula-Based Fusion of Correlated Decisions</b> - A simulation project which detected signals from multiple sensors. 
