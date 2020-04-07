@@ -158,7 +158,7 @@ title: Skills and Certifications
 <div>
 <h2>My Skillset</h2>
 </div>
-<table>
+<table style="font-size: 1.1rem;">
 	<tr>
 		<th scope="row"><strong>Programming Languages</strong></th>
 		<td>R, Python, SQL, VBA, C#, JavaScript</td>
