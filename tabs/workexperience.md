@@ -29,11 +29,11 @@ title: Work Experience
 			top: 1px;
 		}
 
-		#resume .col-md-10 span.duration {
+		#resume .col-md-12 span.duration {
 			float: right;
 		}
 
-		#resume .col-md-10 ul li {
+		#resume .col-md-12 ul li {
 			list-style: none;
 			margin-top: 20px;
 		}
@@ -79,7 +79,7 @@ title: Work Experience
 </head>
 
 <div id="resume" class="content_2">
-	<div class="col-md-10 resume-left">    
+	<div class="col-md-12 resume-left">    
 
 		<ul class="attributes">
 			<li class="first">
