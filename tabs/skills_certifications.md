@@ -184,3 +184,21 @@ title: Skills and Certifications
 		<td>MS Project, Trello, Jira, Minitab, MS Visio, DMAIC (Define, Measure, Analysis, Improve, Control) Processes</td>
 	</tr>
 </table>
+
+<br><br>
+
+<div>
+<h2 style="font-size: 1.8rem;font-weight: 400;">My Certificates</h2>
+</div>
+<div>
+<h6>Certified Associate in Project Management (CAPM)®</h6>
+</div>
+<div>
+<h6>Certificate of Advanced Study in Data Science from Syracuse University</h6>
+</div>
+<div>
+<h6>Microsoft Office Specialist for Office Excel® 2016</h6>
+</div>
+<div>
+<h6>Google Analytics Individual Qualification</h6>
+</div>
