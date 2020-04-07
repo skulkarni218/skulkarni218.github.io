@@ -29,8 +29,3 @@
   icon: "fas fa-education"
   path: tabs
   url: education
--  
-  name: "Awards and Leadership"
-  icon: "fas fa-awards"
-  path: tabs
-  url: awards_leadership
