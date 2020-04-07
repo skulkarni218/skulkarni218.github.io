@@ -71,7 +71,7 @@ title: Skills and Certifications
 	<div class="col-md-12">
 	</div>
 
-	<div class="col-md-4 pack-service">
+	<div class="col-md-4 pack-service" style="border-style:outset;background-color:#D2F6FE">
 		<div class="service">
 			<div class="service-icon"><i class="fa fa-line-chart"></i></div>
 			<div class="service-detail">
