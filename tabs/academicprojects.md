@@ -12,7 +12,6 @@ title: Academic Projects
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
-  background-color: #eee;
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -20,8 +19,9 @@ title: Academic Projects
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
   transition: 0.4s;
+  margin-bottom: 10px;
+  background-image: radial-gradient( circle, rgba(42, 30, 107, 1) 0%, rgba(35, 37, 46, 1) 100%);
 }
 
 .active, .accordion:hover {
@@ -75,7 +75,7 @@ title: Academic Projects
   Furthermore, I built MOLAP to expedite the process of generating reports for executives for exploratory data analysis and root cause analysis.</p>
 </div>
 
-<button class="accordion">Data Analysis on Customer Satisfaction Survey</button>
+<button class="accordion">Data Analysis on Customer Satisfaction Survey using R</button>
 <div class="panel">
   <p>During this project, I collaborated in a group of 4 to perform exploratory and explanatory data analysis on the customer satisfaction survey of several airlines to find critical business insights on how to improve customer satisfaction. 
   The team and I started with acquiring data and performing transformations such as cleaning and munging to ensure that the data is of quality. 
