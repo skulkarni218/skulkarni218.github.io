@@ -203,10 +203,23 @@ title: Academic Projects
 			border-radius:0px;
 		}
 		.bottom-p .panel-group .panel-heading {
-			border-radius:1px;
+			border-radius:10px;
 			border-color:#fff;
 			background-image: radial-gradient( circle, rgba(42, 30, 107, 1) 0%, rgba(35, 37, 46, 1) 100%);
 			color:white;
+		}
+		.collapse {
+			display: none
+		}
+		.collapse.in {
+			display: block
+		}
+		.collapsing {
+			position: relative;
+			height: 0;
+			overflow: hidden;
+			-webkit-transition: height .35s ease;
+			transition: height .35s ease
 		}
 	</style>
 </head>
