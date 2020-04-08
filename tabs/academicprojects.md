@@ -164,21 +164,11 @@ title: Academic Projects
 			width: 0;
 			height: 0;
 		}
-		#profile .about i.glyphicon  {
-			margin-right: 3px;
-		}
-
-		#profile .profile-r {
-			padding-right: 0;
-		}
-		#profile .cycle-slideshow {
-			margin-top: 19px;
-			margin-bottom: 20px;
-			width: 348px;
-			height: 456px;
-		}
-		#profile .cycle-slideshow img {
-			width: 100%;
+		.content_2 {
+			height: 580px;
+			-webkit-box-sizing:border-box;
+			-moz-box-sizing:border-box;
+			box-sizing:border-box;		
 		}
 		.bottom-p .panel-body {
 			padding: 15px;
@@ -189,139 +179,30 @@ title: Academic Projects
 		.bottom-p .panel-group .panel {
 			border-radius:0px;
 		}
-
 		.bottom-p .panel-heading {
 			border-top-right-radius: 0px;
 			border-top-left-radius: 0px;
+			padding: 10px 15px;
 		}
-
-		ul.about li span.value {
-			width: 220px;
-			text-align: left;
-			float: right;
-		}
-		ul.about li {
-			margin: 0;
-			color: #717171;
-			display: block;
-			font-size: 13px;
-			border-bottom: 1px solid #e6e6e6;
-		}
-
-		ul.about li:last-child {
-			border-bottom: none;
-		}
-		ul.about {
-			margin-bottom: 30px;
-		}
-
 		#profile .bottom-p  {
 			margin-top: 20px;
 		}
-
 		#profile .bottom-p p {
 			border-left:0;
 		}
-
-
 		#profile .bottom-p h3 {
 			margin-top: 60px;
 			margin-bottom: 20px;
 		}
-		/** style profile 3 **/
-		.ch-grid-prof {
-			margin: 20px 0 0 0;
-			padding: 0;
-			list-style: none;
-			display: block;
-			text-align: center;
-			width: 100%;
+		.bottom-p .panel-body {
+			padding: 11px;
+			font-size: 11px;
+			text-align: justify;
 		}
-		.ch-grid-prof:after, .ch-item-prof:before {
-			content: '';
-			display: table;
+		.bottom-p .panel-group .panel {
+			border-radius:0px;
 		}
-		.ch-grid-prof:after {
-			clear: both;
-		}
-		.ch-grid-prof li {
-			width: 220px;
-			height: 220px;
-			display: inline-block;
-			margin: 20px;
-		}
-		.ch-items-prof {
-			width: 150px;
-			height: 150px;
-			border-radius: 50%;
-			overflow: hidden;
-			position: relative;
-			cursor: default;
-			box-shadow: inset 0 0 0 5px rgba(255,255,255,0.6), 0 1px 2px rgba(0,0,0,0.1);
-			box-shadow: inset 0 0 0 3px rgba(255,255,255,0.6), 0 1px 2px rgba(0,0,0,0.1);
-			transition: all 0.4s ease-in-out;
-			margin: 0 auto;
-			margin-bottom: 10px;
-		}
-		.ch-info-prof {
-			position: absolute;
-			width: inherit;
-			height: inherit;
-			border-radius: 50%;
-			overflow: hidden;
-			opacity: 0;
-			transition: all 0.4s ease-in-out;
-			transform: scale(0);
-		}
-		.ch-info-prof h3 {
-			color: #fff;
-			text-transform: uppercase;
-			letter-spacing: 2px;
-			font-size: 25px;
-			margin: 0 auto;
-			padding: 50px 0 0 0;
-			text-shadow: 0 0 1px #fff, 0 1px 2px rgba(0,0,0,0.3);
-			line-height: 22px;
-			border: none;
-		}
-		.ch-info-prof p {
-			color: #fff;
-			padding: 10px 5px;
-			font-style: italic;
-			margin: 0 30px;
-			font-size: 12px;
-			border-top: 1px solid rgba(255,255,255,0.5);
-			opacity: 0;
-			transition: all 1s ease-in-out 0.4s;
-		}
-		.ch-info-prof p a {
-			display: block;
-			color: rgba(255,255,255,0.7);
-			font-style: normal;
-			text-transform: uppercase;
-			font-size: 9px;
-			letter-spacing: 1px;
-			padding-top: 4px;
-		}
-		.ch-info-prof p a:hover {
-			color: rgba(255,242,34, 0.8);
-		}
-		.ch-items-prof:hover {
-			box-shadow: inset 0 0 0 1px rgba(255,255,255,0.1), 0 1px 2px rgba(0,0,0,0.1);
-		}
-		.ch-items-prof:hover .ch-info-prof {
-			transform: scale(1);
-			opacity: 1;
-		}
-		.ch-items-prof:hover .ch-info-prof p {
-			opacity: 1;
-		}
-		.content_2 {
-			height: 580px;
-			-webkit-box-sizing:border-box;
-			-moz-box-sizing:border-box;
-			box-sizing:border-box;		
-		}
+		
 	</style>
 </head>
 
