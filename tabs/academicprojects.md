@@ -461,7 +461,7 @@ title: Academic Projects
 .panel-info>.panel-footer+.panel-collapse .panel-body {
     border-bottom-color: #bce8f1
 }
-.a:hover{
+.bottom-p .panel-group .panel-heading. panel-title a:hover{
     color: #fff !important;
     border-bottom: 1px solid #fff;
 }
