@@ -1,7 +1,7 @@
 ---
-title: "Earned the Gold Badge for SQL on HackerRank"
-date: 2020-02-24 11:33:00 -0400
-tags: [SQL, GoldBade, HackerRank, DataAnalysis]
+title: "Just recently got Certified as an Associate Project Manager"
+date: 2019-08-16 11:33:00 -0400
+tags: [ProjectManager, ProjectManagementInstitute, CAPM, ProjectManagement, PMI ]
 ---
 
 <head>
@@ -80,10 +80,11 @@ tags: [SQL, GoldBade, HackerRank, DataAnalysis]
 
 		<ul class="attributes">
 			<li class="first">
-				<p>Here it is! I just earned the Gold Badge for SQL on HackerRank! Thank you HackerRank for providing such an amazing platform. 
-				Throughout the process of earning the Gold, I was able to learn something new and brush up basics.
+				<p>I am excited to share that I have passed and earned the Certified Associate in Project Management (CAPM)® from the Project Management Institute.
 				<br><br>
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6640313950313426948" height="580" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> </p>
+				This would not have been possible without the help and guidance of Aditya Patil, CAPM®. I would also like to thank Joseph Phillips for his coaching, constant motivation and helping me keep a positive mental attitude. 
+				<br><br>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6568933704339599360" height="638" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
 		</ul>
 	</div>

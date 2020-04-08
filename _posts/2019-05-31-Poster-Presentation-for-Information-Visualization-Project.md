@@ -1,7 +1,7 @@
 ---
-title: "Earned the Gold Badge for SQL on HackerRank"
-date: 2020-02-24 11:33:00 -0400
-tags: [SQL, GoldBade, HackerRank, DataAnalysis]
+title: "Poster Presentation for Information Visualization Project"
+date: 2019-05-31 11:33:00 -0400
+tags: [Poster, Presentation, Information, Visualization, Tableau, SyracuseUniversity, iSchool]
 ---
 
 <head>
@@ -80,10 +80,14 @@ tags: [SQL, GoldBade, HackerRank, DataAnalysis]
 
 		<ul class="attributes">
 			<li class="first">
-				<p>Here it is! I just earned the Gold Badge for SQL on HackerRank! Thank you HackerRank for providing such an amazing platform. 
-				Throughout the process of earning the Gold, I was able to learn something new and brush up basics.
+				<p>This week, my teammate, Wenjing Yao, and I got the opportunity to present our Income Census poster for our course Information Visualization at the iSchool at Syracuse University.<br>
+				The main objective of this poster was to convey a story to the audience of graduate and undergraduate students and faculty.<br>
+				During this course and poster presentation, I learned that Information Visualization is more than just displaying numbers in the form of charts and lines. 
+				It is about telling a story, with data and analysis at its foundation, in a way that is easily understood and grasped by the audience. 
 				<br><br>
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6640313950313426948" height="580" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> </p>
+				Tableau Visualization - https://lnkd.in/dS3G7YQ
+				<br><br>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6535627144284909568" height="734" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
 		</ul>
 	</div>
