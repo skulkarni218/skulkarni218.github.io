@@ -202,7 +202,10 @@ title: Academic Projects
 		.bottom-p .panel-group .panel {
 			border-radius:0px;
 		}
-		
+		.bottom-p .panel-heading h4{
+			padding-top: 0px;
+			margin-top: 0px;
+		}
 	</style>
 </head>
 
