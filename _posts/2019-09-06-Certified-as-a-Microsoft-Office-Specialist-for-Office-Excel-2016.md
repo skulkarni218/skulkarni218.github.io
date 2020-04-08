@@ -1,5 +1,5 @@
 ---
-title: "Just recently got Certified as an Associate Project Manager"
+title: "I got Certified as a Microsoft Office Specialist for Office Excel® 2016"
 date: 2019-09-06 11:33:00 -0400
 tags: [Microsoft, MSExcel, Office2016]
 ---
@@ -80,8 +80,9 @@ tags: [Microsoft, MSExcel, Office2016]
 
 		<ul class="attributes">
 			<li class="first">
-				<p>I am now a Microsoft Office Specialist for Office Excel® 2016.<br><br>
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6575843099199717376" height="503" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+				<p>I am now a Microsoft Office Specialist for Office Excel® 2016.<br><br></p?
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6575843099199717376" height="503" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
+				</iframe>
 			</li>
 		</ul>
 	</div>
