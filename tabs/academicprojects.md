@@ -12,7 +12,7 @@ title: Academic Projects
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
-  color: #444;
+  color: #fff;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -22,6 +22,9 @@ title: Academic Projects
   transition: 0.4s;
   margin-bottom: 10px;
   background-image: radial-gradient( circle, rgba(42, 30, 107, 1) 0%, rgba(35, 37, 46, 1) 100%);
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-size: 1.05rem;
 }
 
 .active, .accordion:hover {
