@@ -25,6 +25,7 @@ title: Academic Projects
   font-weight: 600;
   letter-spacing: 1px;
   font-size: 1.05rem;
+  border-radius: 15px;
 }
 
 .active, .accordion:hover {
