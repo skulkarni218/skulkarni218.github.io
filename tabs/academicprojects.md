@@ -202,10 +202,6 @@ title: Academic Projects
 		.bottom-p .panel-group .panel {
 			border-radius:0px;
 		}
-		.bottom-p .panel-heading h4{
-			padding-top: 0px;
-			margin-top: 0px;
-		}
 	</style>
 </head>
 
@@ -217,7 +213,7 @@ title: Academic Projects
 				<div class="panel-group" id="accordion">
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4 class="panel-title">
+							<h4 class="panel-title" style="padding-top: 0px; margin-top: 0px;">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" class="collapse_tabs">
 									Data Analysis in R - Kickstarter Projects Success Prediction
 									<i class="glyphicon glyphicon-chevron-up" style="float: right;font-size: 13px;"></i>
