@@ -90,3 +90,5 @@ date: 2020-02-24 11:33:00 -0400
 		</ul>
 	</div>
 </div>
+
+![Desktop View]({{ "/assets/img/sample/SQLGoldBadge.png" | relative_url }})
