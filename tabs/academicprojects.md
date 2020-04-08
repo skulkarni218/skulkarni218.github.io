@@ -322,17 +322,6 @@ title: Academic Projects
 			-moz-box-sizing:border-box;
 			box-sizing:border-box;		
 		}
-		.bottom-p .panel-body {
-			padding: 11px;
-			font-size: 11px;
-			text-align: justify;
-		}
-		.panel-title {
-			font-size: 13px;
-		}
-		.panel{
-			border:none !important;	
-		}
 	</style>
 </head>
 
