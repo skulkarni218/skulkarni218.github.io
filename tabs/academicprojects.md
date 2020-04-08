@@ -231,7 +231,7 @@ title: Academic Projects
 					
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4 class="panel-title">
+							<h4 class="panel-title" style="padding-top: 0px; margin-top: 0px;">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapse_tabs">
 									Database Management in SQL - Health Care Portal
 									<i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i>
@@ -249,7 +249,7 @@ title: Academic Projects
 					
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4 class="panel-title">
+							<h4 class="panel-title" style="padding-top: 0px; margin-top: 0px;">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapse_tabs">
 								Data Analytics in Google Analytics - Whitman School of Management Website
 								<i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i>
@@ -267,7 +267,7 @@ title: Academic Projects
 					
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4 class="panel-title">
+							<h4 class="panel-title" style="padding-top: 0px; margin-top: 0px;">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" class="collapse_tabs">
 									Data Analysis in RStudio - United States Airlines customer satisfaction
 									<i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i> 
@@ -285,7 +285,7 @@ title: Academic Projects
 					
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4 class="panel-title">
+							<h4 class="panel-title" style="padding-top: 0px; margin-top: 0px;">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" class="collapse_tabs">
 									Data Analysis in Excel - House Pricing Analysis
 									<i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i> 
@@ -303,7 +303,7 @@ title: Academic Projects
 					
 					<div class="panel panel-default">
 						<div class="panel-heading">
-							<h4 class="panel-title">
+							<h4 class="panel-title" style="padding-top: 0px; margin-top: 0px;">
 								<a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" class="collapse_tabs">
 								Project Management - RPA at World Hotels for event management
 								<i class="glyphicon glyphicon-chevron-down" style="float: right;font-size: 13px;"></i> 
