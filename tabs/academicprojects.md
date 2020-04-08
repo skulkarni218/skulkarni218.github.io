@@ -203,7 +203,7 @@ title: Academic Projects
 			border-radius:0px;
 		}
 		.bottom-p .panel-group .panel-heading {
-			border-radius:10px;
+			border-radius:1px;
 			border-color:#fff;
 			background-image: radial-gradient( circle, rgba(42, 30, 107, 1) 0%, rgba(35, 37, 46, 1) 100%);
 			color:white;
@@ -460,6 +460,10 @@ title: Academic Projects
 }
 .panel-info>.panel-footer+.panel-collapse .panel-body {
     border-bottom-color: #bce8f1
+}
+.a:hover{
+    color: #fff !important;
+    border-bottom: 1px solid #fff;
 }
 	</style>
 </head>
