@@ -1,7 +1,7 @@
 ---
-title: "Earned the Gold Badge for SQL on HackerRank"
-date: 2020-02-24 11:33:00 -0400
-tags: [SQL, GoldBade, HackerRank, DataAnalysis]
+title: "Just recently got Certified as an Associate Project Manager"
+date: 2018-08-16 11:33:00 -0400
+tags: [Microsoft, MSExcel, Office2016]
 ---
 
 <head>
@@ -80,10 +80,8 @@ tags: [SQL, GoldBade, HackerRank, DataAnalysis]
 
 		<ul class="attributes">
 			<li class="first">
-				<p>Here it is! I just earned the Gold Badge for SQL on HackerRank! Thank you HackerRank for providing such an amazing platform. 
-				Throughout the process of earning the Gold, I was able to learn something new and brush up basics.
-				<br><br>
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6640313950313426948" height="580" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> </p>
+				<p>I am now a Microsoft Office Specialist for Office Excel® 2016.<br><br>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6575843099199717376" height="503" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
 		</ul>
 	</div>

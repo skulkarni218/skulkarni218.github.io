@@ -1,7 +1,7 @@
 ---
-title: "Earned the Gold Badge for SQL on HackerRank"
-date: 2020-02-24 11:33:00 -0400
-tags: [SQL, GoldBade, HackerRank, DataAnalysis]
+title: "Completed the SQL Bootcamp"
+date: 2018-08-16 11:33:00 -0400
+tags: [Python, DataScience, SQL, PostgreSQL, pgaadmin]
 ---
 
 <head>
@@ -80,10 +80,9 @@ tags: [SQL, GoldBade, HackerRank, DataAnalysis]
 
 		<ul class="attributes">
 			<li class="first">
-				<p>Here it is! I just earned the Gold Badge for SQL on HackerRank! Thank you HackerRank for providing such an amazing platform. 
-				Throughout the process of earning the Gold, I was able to learn something new and brush up basics.
-				<br><br>
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6640313950313426948" height="580" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> </p>
+				<p>Had an amazing time brushing up the basics of SQL and getting hands-on experience on one of the most popular and powerful open source object-relational database system - PostgreSQL. The bonus in the course was how effortlessly PostgreSQL can be connected with Python using the Psycopg2 package.
+				<br>Thank you Jose Marcial Portilla for structuring such a wonderful course.<br><br>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6650228129983934464" height="536" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
 		</ul>
 	</div>
