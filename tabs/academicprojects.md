@@ -221,6 +221,12 @@ title: Academic Projects
 			-webkit-transition: height .35s ease;
 			transition: height .35s ease
 		}
+		.navbar-collapse.in {
+			overflow-y: auto
+		}
+		.navbar-collapse.in {
+			overflow-y: visible
+		}
 	</style>
 </head>
 
