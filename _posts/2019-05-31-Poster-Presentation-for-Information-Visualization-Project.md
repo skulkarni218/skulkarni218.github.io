@@ -1,6 +1,6 @@
 ---
 title: "Poster Presentation for Information Visualization Project"
-date: 2020-02-24 11:33:00 -0400
+date: 2019-05-31 11:33:00 -0400
 tags: [Poster, Presentation, Information, Visualization, Tableau, SyracuseUniversity, iSchool]
 ---
 

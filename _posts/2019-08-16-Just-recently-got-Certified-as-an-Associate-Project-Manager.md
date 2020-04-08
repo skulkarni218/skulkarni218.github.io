@@ -1,6 +1,6 @@
 ---
 title: "Just recently got Certified as an Associate Project Manager"
-date: 2018-08-16 11:33:00 -0400
+date: 2019-08-16 11:33:00 -0400
 tags: [ProjectManager, ProjectManagementInstitute, CAPM, ProjectManagement, PMI ]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Completed the SQL Bootcamp"
-date: 2018-08-16 11:33:00 -0400
+date: 2020-03-28 11:33:00 -0400
 tags: [Python, DataScience, SQL, PostgreSQL, pgaadmin]
 ---
 
