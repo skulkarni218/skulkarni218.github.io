@@ -316,11 +316,6 @@ title: Academic Projects
 		.ch-items-prof:hover .ch-info-prof p {
 			opacity: 1;
 		}
-		.bottom-p .panel-body {
-        padding: 11px;
-        font-size: 11px;
-        text-align: justify;
-		}
 		.content_2 {
 			height: 580px;
 			-webkit-box-sizing:border-box;
@@ -332,7 +327,6 @@ title: Academic Projects
 			font-size: 11px;
 			text-align: justify;
 		}
-
 		.panel-title {
 			font-size: 13px;
 		}
