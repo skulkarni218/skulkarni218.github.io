@@ -80,7 +80,7 @@ tags: [Microsoft, MSExcel, Office2016]
 
 		<ul class="attributes">
 			<li class="first">
-				<p>I am now a Microsoft Office Specialist for Office Excel® 2016.<br><br></p?
+				<p>I am now a Microsoft Office Specialist for Office Excel® 2016.<br><br></p>
 				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6575843099199717376" height="503" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
 				</iframe>
 			</li>
