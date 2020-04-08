@@ -81,7 +81,8 @@ tags: [Python, DataScience, SQL, PostgreSQL, pgaadmin]
 		<ul class="attributes">
 			<li class="first">
 				<p>Had an amazing time brushing up the basics of SQL and getting hands-on experience on one of the most popular and powerful open source object-relational database system - PostgreSQL. The bonus in the course was how effortlessly PostgreSQL can be connected with Python using the Psycopg2 package.
-				<br>Thank you Jose Marcial Portilla for structuring such a wonderful course.<br><br>
+				<br>Thank you Jose Marcial Portilla for structuring such a wonderful course.</p>
+				<br><br>
 				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6650228129983934464" height="536" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
 		</ul>
