@@ -81,9 +81,9 @@ tags: [SQL, GoldBade, HackerRank, DataAnalysis]
 		<ul class="attributes">
 			<li class="first">
 				<p>Here it is! I just earned the Gold Badge for SQL on HackerRank! Thank you HackerRank for providing such an amazing platform. 
-				Throughout the process of earning the Gold, I was able to learn something new and brush up basics.
+				Throughout the process of earning the Gold, I was able to learn something new and brush up basics.</p>
 				<br><br>
-				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6640313950313426948" height="580" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> </p>
+				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6640313950313426948" height="580" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
 		</ul>
 	</div>

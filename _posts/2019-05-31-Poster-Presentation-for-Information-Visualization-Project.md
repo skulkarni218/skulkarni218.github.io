@@ -85,7 +85,7 @@ tags: [Poster, Presentation, Information, Visualization, Tableau, SyracuseUniver
 				During this course and poster presentation, I learned that Information Visualization is more than just displaying numbers in the form of charts and lines. 
 				It is about telling a story, with data and analysis at its foundation, in a way that is easily understood and grasped by the audience. 
 				<br><br>
-				Tableau Visualization - https://lnkd.in/dS3G7YQ
+				Tableau Visualization - https://lnkd.in/dS3G7YQ </p>
 				<br><br>
 				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6535627144284909568" height="734" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>

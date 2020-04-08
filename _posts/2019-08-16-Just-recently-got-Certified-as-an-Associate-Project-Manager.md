@@ -82,7 +82,7 @@ tags: [ProjectManager, ProjectManagementInstitute, CAPM, ProjectManagement, PMI 
 			<li class="first">
 				<p>I am excited to share that I have passed and earned the Certified Associate in Project Management (CAPM)® from the Project Management Institute.
 				<br><br>
-				This would not have been possible without the help and guidance of Aditya Patil, CAPM®. I would also like to thank Joseph Phillips for his coaching, constant motivation and helping me keep a positive mental attitude. 
+				This would not have been possible without the help and guidance of Aditya Patil, CAPM®. I would also like to thank Joseph Phillips for his coaching, constant motivation and helping me keep a positive mental attitude.</p> 
 				<br><br>
 				<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6568933704339599360" height="638" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 			</li>
