@@ -81,7 +81,8 @@ tags: [InformationVisualization, Tableau, DataScience, DataAnalytics, Kaggle, Da
 		<ul class="attributes">
 			<li class="first">
 				<p>In my quest of investigating how 911 is coping with the recent pandemic of COVID-19, I found this very interesting dataset on Kaggle by Mike Chirico which contains calls to 911 (emergency calls) in Montgomery County Pennsylvania. So, I made a Tableau dashboard for analysis.
-				<br><br>The results which I obtained were very interesting and can be viewed below. 
+				<br><br>The results which I obtained were very interesting and can be viewed below. <br>
+				https://public.tableau.com/views/911CallsinMontgomeryCountyPA/911CallsinMontgomeryCountyPA?:retry=yes&:display_count=y&:origin=viz_share_link
 				<br><br>Some interesting observations were:<br>
 1.	The calls to 911 during this period have remained fairly stable and have in fact dropped from March till today.<br>
 2.	There were abnormally high number of emergency calls on March 02, 2018 which may be because of an incident which caused traffic and fire problems.<br><br>
