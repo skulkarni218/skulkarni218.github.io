@@ -84,7 +84,7 @@ tags: [InformationVisualization, Tableau, DataScience, DataAnalytics, Tableau, D
 				When it comes to Business Intelligence, Tableau is one of the best and powerful tools to explore and analyze data. 
 				I have used Tableau quite extensively to pursue my passion for crunching data and during my professional projects. 
 				So, I thought it was the right time to put my knowledge to test. I am glad to say that I earned my Tableau Analyst badge.
-				<br><br>View my verified achievement from Tableau.<br>
+				<br><br>View my verified achievement from Tableau.</p>
 				<br><br>
 				<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="af1c08d0-81de-40d2-87b9-377eb8e40643" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 			</li>
