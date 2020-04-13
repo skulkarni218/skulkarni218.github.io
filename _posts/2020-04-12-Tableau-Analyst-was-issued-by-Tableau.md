@@ -1,5 +1,5 @@
 ---
-title: "Tableau Anallyst Badge was issued by Tableau"
+title: "Tableau Analyst Badge was issued by Tableau"
 date: 2020-04-12 11:33:00 -0400
 tags: [InformationVisualization, Tableau, DataScience, DataAnalytics, Tableau, DataBadge, KeepLearning]
 ---
