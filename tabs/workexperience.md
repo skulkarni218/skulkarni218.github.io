@@ -85,8 +85,9 @@ title: Work Experience
 			<li class="first">
 				<h5>Business Intelligence Analyst<span class="duration"><i class="fa fa-calendar color"></i> Jan 2020 - Present </span></h5>
 				<h6><span class="fa fa-briefcase"></span> iConsult Collaborative, Syracuse, USA</h6>
-				<p>I am building a data warehouse for 11 million records of health insurance claims from several hospitals to assist insurance companies with predictive analytics.
-				To achieve this, the team and I are engineering ETL processes by developing data modeling worksheets and logical data mappings to stage data using SSIS packages. 
+				<p>I am building a data warehouse for 11 million records of health insurance claims from several hospitals to assist insurance companies with predictive analytics. 
+				To begin with, I am gathering and analyzing business requirements to create requirement specification document by working closely with stakeholders. 
+				Then the team and I are engineering ETL processes by using SSIS packages and SQL for data modeling and logically mapping data to Data Warehouse. 
 				To provide management with statistical findings and conclusions, I am designing, deploying and maintaining SSRS and SSAS reports.</p>
 			</li>
 			
@@ -96,9 +97,10 @@ title: Work Experience
 				<h5>Business Data Analyst <span class="duration"><i class="fa fa-calendar color"></i> Apr 19 - Present </span></h5>
 				<h6><span class="fa fa-briefcase"></span> iConsult Collaborative, Syracuse, USA</h6>
 				<p>As a Business Data Analyst, most of my job responsibilities involved collaborating with PMI’s Syracuse Chapter to develop a digital marketing strategy to improve member reach and retention. 
-				I helped PMI Syracuse analyzing social media data, providing actionable insights, and creating detailed implementation plans to achieve the goal - increased member reach and retention. 
-				I also	performed a detailed vendor analysis of different content management platforms and provided recommendations based on research. 
-				Additionally, I collaborated with multiple teams to design PMI Syracuse’s website for user accessibility and to achieve search engine optimization.</p>
+				I helped PMI Syracuse analyzing social media data, providing actionable insights, and creating detailed implementation plans which resulted in 18% increased members. 
+				I also performed a detailed vendor analysis of different content management platforms and provided recommendations based on research. 
+				Additionally, I was also responsible for planning and managing A/B tests using core insights from data to drive improvements and recommendations for website optimization. 
+				Furthermore, I am also monitoring KPIs for redesigning client website and achieving search engine optimization resulting in 79 % increased web traffic.</p>
 			</li>
 			
 			<br><br>
@@ -127,11 +129,14 @@ title: Work Experience
 			<li>
 				<h5>Process Improvement Consultant | Team Lead<span class="duration"><i class="fa fa-calendar color"></i> Aug 19 - Dec 19 </span></h5>
 				<h6><span class="fa fa-briefcase"></span> National Grid, Syracuse, USA</h6>
-				<p>In my capacity as a Process Improvement Consultant and a Team Lead, I collaborated with stakeholders, mainly the Director, Strategy and Performance Management of Customer Meter Service at National Grid, to identify and reduce customer complaints which resulted in a 26% improvement customer experience. 
-				I was also responsible for effectively communicating project scope and schedule with both team members and stakeholders and ensure timely deliverables. To achieve this, I developed Tableau dashboards using Action Filters and Highlighters which helped us to assess and analyze improvement opportunities within the organization. 
-				After gaining critical business insights from the dashboards, I again collaborated with the stakeholders to devise standard work instructions and redesigned department workflow diagrams by utilizing Lean and Six Sigma methodologies. 
+				<p>In my capacity as a Process Improvement Consultant and a Team Lead, I collaborated with stakeholders, mainly the Director, Strategy and Performance Management of Customer Meter Service at National Grid, to identify bottlenecks and reduce customer complaints which resulted in a 26% improved customer experience. 
+				I was also responsible for effectively communicating project scope and schedule with both team members and stakeholders and ensure timely deliverables. 
+				To improve the customer experience, I developed Tableau dashboards using Action Filters and Highlighters which helped us to assess and analyze improvement opportunities within the organization. 
+				Additionally, I conducted statistical analysis such as correlation, regression, variation, sampling, measurement system analysis and statistical process control to analyze the stability and capability of existing processes using Minitab. 
+				After gaining critical business insights from the analysis, I again teamed up with the stakeholders to devise standard work instructions and redesigned department workflow diagrams by utilizing Lean and Six Sigma methodologies. 
 				Additionally, I was also developed and investigated KPIs and scorecards to track trends and monitor performance and operations across several departments. 
-				Also, I assisted National Grid in creating a continuous improvement road map, control plan and facilitated education of staff to achieve predicted outcomes.</p>
+				Also, I assisted National Grid in creating a continuous improvement road map, control plan and facilitated education of staff to achieve predicted outcomes. 
+				Furthermore, I helped National Grid to improve its data collection methods and data mining processes which accelerated the existing electricity and gas billing process.</p>
 			</li>
 			
 			<br><br>
@@ -139,14 +144,13 @@ title: Work Experience
 			<li>
 				<h5>Senior Systems Engineer<span class="duration"><i class="fa fa-calendar color"></i> Mar 17 - Jul 18 </span></h5>
 				<h6><span class="fa fa-briefcase"></span> Infosys Limited, Pune, India</h6>
-				<p>As a Senior Systems Engineer, I analyzed and improvised business processes and procedures to implement automated business solutions for one of the world's largest pharmaceutical companies by developing an application that performs market sensitivity. 
-				This led to the formulation of continuous improvements by working with stakeholders to integrate automated processes resulting in 32% reduced tickets. 
-				Also, I elicited business requirements by conducting meetings with more than 50 Medical Representatives and translated them in a comprehensive Requirement Specification document which described the functional requirements and maintained the Requirement Traceability Matrix (RTM). 
-				Additionally, with the help of MS Visio, I was able to create business process maps and workflow diagrams which enhanced business processes and tackled root causes of business problems. This also helped in streamlining the process of generating and delivering app usage reports to the stakeholders. 
-				Furthermore, I conducted various levels of testing which included functional, regression, user acceptance (UAT) and integration between client and team of 8 to address business requirements.
-				<br><br>
-				Also, I oversaw the development and deployment of a marketing analytics solution which increased the efficiency of the application by 50% by automating the process of creating new proposals using SQL, SSIS, and ASP.NET. 
-				Additionally, I modified the database design and improved the system performance of procedures by 65% by collaborating with several cross-functional teams.</p>
+				<p>As a Senior Systems Engineer, I analyzed and improvised business processes and procedures to implement automated business solutions for one of the world's largest pharmaceutical companies. 
+				To achieve this, I elicited business requirements by interviewing medical clientele to create and maintain the Requirement Traceability Matrix. 
+				Then, I helped formulate continuous improvements by working with stakeholders to integrate automated processes which resulted in 32% reduced tickets for the support team. 
+				Additionally, by automating certain business-critical processes I was able to improve the efficiency of the support team by saving 50% time originally required. 
+				Furthermore, I also streamlined the process of generating and delivering app usage reports using SQL, MS Excel and ASP.NET to the stakeholders. 
+				Apart from this, I also helped in improving the system performance by 65% by modifying database design and procedures with the help of several cross-functional teams. 
+				Furthermore, I developed test cases and conducted functional, regression, user acceptance (UAT) and integration testing for quality assurance.</p>
 			</li>
 			
 			<br><br>
@@ -154,12 +158,11 @@ title: Work Experience
 			<li>
 				<h5>Systems Engineer<span class="duration"><i class="fa fa-calendar color"></i> Aug 15 - Feb 17 </span></h5>
 				<h6><span class="fa fa-briefcase"></span> Infosys Limited, Mysuru, India</h6>
-				<p>I helped develop a .NET application by planning and designing business processes with a team of 12 to implement a plagiarism check. 
-				To support it, I also built the database design and structure using SQL for handling data corresponding to the application. 
-				At the final stages of the project, I arranged and participated in giving demonstrations of business requirements between a team of 12 and the client. 
-				Additionally, I also performed ad-hoc requests for clients using MS Excel and customized Oracle queries to extract and format requested information. 
-				Also, I mined and manipulated data from multiple sources using Python to produce ticket aging reports in MS Excel for the support team. 
-				Moreover, I maintained SQL scripts and queries for exploratory analysis and extraction of the data to load into production/stage databases.</p>
+				<p>I helped develop database design and structure using SQL for a .NET application with a team of 12 to implement a plagiarism check. 
+				Here, I also documented business process flows, system flows and developed requirements for functional improvements and enhancements. 
+				Apart from that, I also mined and manipulated data from multiple sources using Python to produce ticket aging reports in MS Excel for the support team. 
+				Moreover, I maintained SQL scripts and queries for exploratory analysis and extraction of the data to load into production/stage databases. 
+				Additionally, I also performed ad-hoc requests for clients using MS Excel, VBA and customized Oracle queries to extract and format requested information.</p>
 			</li>
 			
 			<br><br>
