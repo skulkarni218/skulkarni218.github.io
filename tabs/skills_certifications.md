@@ -218,7 +218,7 @@ title: Skills and Certifications
 	</div>
 	<div class="col-md-6 pack-service">
 		<div class="service">
-		<div class="service-icon"><i class="fa fa-line-chart"></i></div>
+		<div class="service-icon"><i class="fa fa-chart-line"></i></div>
 			<div class="service-detail">
 				<h3>Tableau Data Scientist</h3>
 			</div>
