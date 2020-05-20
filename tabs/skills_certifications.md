@@ -210,6 +210,22 @@ title: Skills and Certifications
 	</div>
 	<div class="col-md-6 pack-service">
 		<div class="service">
+			<div class="service-icon"><i class="fa fa-chart-bar"></i></div>
+			<div class="service-detail">
+				<h3>Tableau Analyst</h3>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6 pack-service">
+		<div class="service">
+		<div class="service-icon"><i class="fa fa-line-chart"></i></div>
+			<div class="service-detail">
+				<h3>Tableau Data Scientist</h3>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6 pack-service">
+		<div class="service">
 		<div class="service-icon"><i class="fa fa-table"></i></div>
 			<div class="service-detail">
 				<h3>Microsoft Office Specialist for Office Excel® 2016</h3>
