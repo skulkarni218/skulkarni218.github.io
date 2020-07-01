@@ -84,11 +84,17 @@ title: About
 
 		<ul class="attributes">
 			<li class="first">
-				<p>My name is Sudhanshu Kulkarni and I am currently pursuing my Masters in Information Management at Syracuse University. 
-				I am broadening my skillset in various areas of Data Analytics and Project Management. I am seeking full-time opportunities in the fields of Data Analytics and Project Management. 
+				<p>I recently graduated with a master’s degree in Information Management from Syracuse University where I have gained technical skills in the field of Data and Business Analytics. 
+				Apart from Analytics, I also focused a part of my curriculum on Project Management and I am a PMI certified associate project manager. 
+				Currently, I am working as a Business Data Analyst and Business Intelligence Analyst with two different clients at iConsult Collaborative at Syracuse University where I am developing analytical solutions to drive and influence business decisions. 
+				Before enrolling for my master’s degree, I have spent 3 years with Infosys Limited where I have worked with clients to understand their pain points, design and deploy innovative solutions to streamline business processes. 
+				I am a person who finds happiness by making a difference in someone’s life and thrives in a fast-paced, dynamic environment. 
+				With almost 4.5 years of experience in various projects involving the use of management skills and analytics, I have gained strong awareness and understanding of successfully leading teams to develop innovative analytical solutions. 
+				This is one of my greatest passions and hence I am seeking full-time opportunities in the fields of Data Analytics, Business Intelligence and Project Management. 
 				If you are a recruiter, student or anyone interested in the aforementioned areas, feel free to reach out.
 				<br><br>
-				Apart from academics, I am an enthusiastic photographer. Football (soccer) is a major part of my life and I am a huge Manchester United FC fan. </p>
+				Apart from this, I am an enthusiastic photographer and football (soccer) is a major part of my life and I am a huge Manchester United FC fan.				
+				</p>
 			</li>
 		</ul>
 	</div>
