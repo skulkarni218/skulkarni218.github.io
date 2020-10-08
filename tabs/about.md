@@ -89,7 +89,7 @@ title: About
 				Currently, I am working as a Business Data Analyst and Business Intelligence Analyst with two different clients at iConsult Collaborative at Syracuse University where I am developing analytical solutions to drive and influence business decisions. 
 				Before enrolling for my master’s degree, I have spent 3 years with Infosys Limited where I have worked with clients to understand their pain points, design and deploy innovative solutions to streamline business processes. 
 				I am a person who finds happiness by making a difference in someone’s life and thrives in a fast-paced, dynamic environment. 
-				With almost 4.5 years of experience in various projects involving the use of management skills and analytics, I have gained strong awareness and understanding of successfully leading teams to develop innovative analytical solutions. 
+				With over 4 years of experience in various projects involving the use of management skills and analytics, I have gained strong awareness and understanding of successfully leading teams to develop innovative analytical solutions. 
 				This is one of my greatest passions and hence I am seeking full-time opportunities in the fields of Data Analytics, Business Intelligence and Project Management. 
 				If you are a recruiter, student or anyone interested in the aforementioned areas, feel free to reach out.
 				<br><br>

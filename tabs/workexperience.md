@@ -83,12 +83,12 @@ title: Work Experience
 
 		<ul class="attributes">
 			<li class="first">
-				<h5>Business Intelligence Analyst<span class="duration"><i class="fa fa-calendar color"></i> Jan 2020 - Present </span></h5>
+				<h5>Business Intelligence Analyst<span class="duration"><i class="fa fa-calendar color"></i> Jan 20 - Present </span></h5>
 				<h6><span class="fa fa-briefcase"></span> iConsult Collaborative, Syracuse, USA</h6>
-				<p>I am building a data warehouse for 11 million records of health insurance claims from several hospitals to assist insurance companies with predictive analytics. 
-				To begin with, I am gathering and analyzing business requirements to create requirement specification document by working closely with stakeholders. 
-				Then the team and I are engineering ETL processes by using SSIS packages and SQL for data modeling and logically mapping data to Data Warehouse. 
-				To provide management with statistical findings and conclusions, I am designing, deploying and maintaining SSRS and SSAS reports.</p>
+				<p>Developing analytical solutions to assist clients with product analytics and deliver insights that drive decision making and drive the business forward. 
+				Gathering and analyzing business requirements to understand business goals and define key business metrics to proactively spot risks and opportunities and to define a data strategy to attain short-term and long-term goals. 
+				Engineering data pipelines using advanced and efficient SQL queries and SSIS packages to retrieve and collect data from several sources and load it into a central repository or a data warehouse. 
+				Designing, deploying and maintaining reports and dashboards to drive improvements by uncovering findings, proposing data-driven recommendations.</p>
 			</li>
 			
 			<br><br>
@@ -96,21 +96,24 @@ title: Work Experience
 			<li>
 				<h5>Business Data Analyst <span class="duration"><i class="fa fa-calendar color"></i> Apr 19 - Present </span></h5>
 				<h6><span class="fa fa-briefcase"></span> iConsult Collaborative, Syracuse, USA</h6>
-				<p>As a Business Data Analyst, most of my job responsibilities involved collaborating with PMI’s Syracuse Chapter to develop a digital marketing strategy to improve member reach and retention. 
-				I helped PMI Syracuse analyzing social media data, providing actionable insights, and creating detailed implementation plans which resulted in 18% increased members. 
-				I also performed a detailed vendor analysis of different content management platforms and provided recommendations based on research. 
-				Additionally, I was also responsible for planning and managing A/B tests using core insights from data to drive improvements and recommendations for website optimization. 
-				Furthermore, I am also monitoring KPIs for redesigning client website and achieving search engine optimization resulting in 79 % increased web traffic.</p>
+				<p>Collaborating with PMI’s Syracuse Chapter to develop a digital marketing strategy to improve member reach and retention. 
+				Assisting PMI Syracuse in analyzing marketing and social media data, providing actionable insights, and creating detailed implementation plans which resulted in 18% increased members. 
+				Performed a detailed vendor analysis of different content management platforms and provided recommendations based on research. 
+				Responsible for planning and managing A/B tests, conducting pricing analysis using core insights from the data of ad campaigns and email marketing to drive improvements and recommendations optimization opportunities. 
+				Monitoring and investigating KPIs for redesigning client website and achieving search engine optimization resulting in 79 % increased web traffic. 
+				Managing the budget and analyzing user stories to ensure that the redevelopment of the website was completed on time and within budget.</p>
 			</li>
 			
 			<br><br>
 			
 			<li>
-				<h5>Project Coordinator<span class="duration"><i class="fa fa-calendar color"></i> Oct 19 - Present </span></h5>
+				<h5>Project Coordinator<span class="duration"><i class="fa fa-calendar color"></i> Oct 19 - May 20 </span></h5>
 				<h6><span class="fa fa-briefcase"></span> NEXIS Student Technology Lab, Syracuse, USA</h6>
-				<p>I am planning, organizing and driving the development of 5 new projects from concept to implementation to achieve defined milestones and deliverables. 
-				To achieve this, I am also tracking and communicating project status and action items with team members and stakeholders through MS Project and MS Excel reports. 
-				I am also delegating tasks to team members by applying Agile Management Methodologies to manage to shift priorities quickly and effectively.</p>
+				<p>Planned, organized, and drove the development of 5 new projects from concept to implementation to achieve defined milestones and deliverables. 
+				Tracked and communicated the project status and action items with team members and stakeholders through MS Project and MS Excel reports. 
+				Delegated tasks to team members by applying Agile Management Methodologies to manage to shift priorities quickly and effectively. 
+				Led weekly meetings to guide and participate in User Story creation, Backlog Grooming, and Retrospectives by operating in sprints. 
+				Developed risk mitigation plans by identifying, documenting risks for ensuring timely deliverables and manage and resolve project-level risks.</p>
 			</li>
 			
 			<br><br>
@@ -118,10 +121,10 @@ title: Work Experience
 			<li>
 				<h5>Data Analyst <span class="duration"><i class="fa fa-calendar color"></i> Aug 19 - Present </span></h5>
 				<h6><span class="fa fa-briefcase"></span> NEXIS Student Technology Lab, Syracuse, USA </h6>
-				<p>I am analyzing quantitative and qualitative business data to perform explanatory data analysis using Python and Jupyter Notebook. 
-				Additionally, I am also predicting sales patterns of houses in the USA by applying machine learning algorithms using Python to optimize business processes. 
-				Furthermore, I am also implementing feature engineering techniques on key business metrics to improve the accuracy of existing predictive models by 19%. 
-				Also, I will be designing Power BI dashboard reports to gain critical business insights and consult the client with developing strategic roadmaps.</p>
+				<p>Analyzed quantitative and qualitative business data to draw insights that guide strategic decisions to optimize business performance using Python and Jupyter Notebook. 
+				Developed predictive models by applying machine learning algorithms like Regression, Random Forest, SVM using SciKit in Python. 
+				Implemented feature engineering techniques on key business metrics to improve the accuracy of existing predictive models by 19%. 
+				Designed KPI dashboards and reports to gain critical business insights and consult the client with data-driven recommendations</p>
 			</li>
 			
 			<br><br>
