@@ -84,7 +84,7 @@ title: Education
 	<div class="col-md-12 resume-left">    
 		<ul class="attributes">
 			<li class="first">
-				<h4><b>Master of Science in Information Management</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2018 - May 2020 </span></h4>
+				<h4><b>Master of Science in Information Management</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 18 - May 20 </span></h4>
 				<h6><span class="fa fa-graduation-cap"></span><b> Syracuse University, GPA 3.95</b></h6>
 				<p><i>Relevant Courses:</i> Data Analytics, Data Science, Data Warehouse, Data Administration and Database Management, Information Visualization, Business Analytics, Enterprise IT Consultation, Enterprise Risk Management, Project Management, Lean Six Sigma <br><br>
 				<b>Leadership:</b> <br>
@@ -96,7 +96,7 @@ title: Education
 			<br><br>
 			
 			<li>
-				<h4><b>Bachelor of Engineering in Elecronics and Telecommunication</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 2011 - May 2015 </span></h4>
+				<h4><b>Bachelor of Engineering in Elecronics and Telecommunication</b><span class="duration"><i class="fa fa-calendar color"></i> Aug 11 - May 15 </span></h4>
 				<h6><span class="fa fa-graduation-cap"></span><b> University of Mumbai</b></h6>
 				<p>During my engineering, I implemented two projects:<br>
 				<b>Copula-Based Fusion of Correlated Decisions</b> - A simulation project which detected signals from multiple sensors. 
